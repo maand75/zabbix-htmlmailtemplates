@@ -1,0 +1,1 @@
+Screenshots example notifications
