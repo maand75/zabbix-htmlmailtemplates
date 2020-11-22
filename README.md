@@ -11,11 +11,11 @@ Problem Recovery: [Resolved {HOST.HOST}] in {EVENT.DURATION}: {EVENT.NAME}<br>
 <br>
 
 Example new Average Problem with client supporting rounded boxes<br>
-<img src="https://github.com/maand75/zabbix-htmlmailtemplates/blob/main/Problem_Rounded.png"><br>
+<img src="https://github.com/maand75/zabbix-htmlmailtemplates/blob/main/Images/Problem_Rounded.png"><br>
 Example Recovered Average Problem with client supporting rounded boxes<br>
-<img src="https://github.com/maand75/zabbix-htmlmailtemplates/blob/main/Problem_Recovery_Rounded.png"><br>
+<img src="https://github.com/maand75/zabbix-htmlmailtemplates/blob/main/Images/Problem_Recovery_Rounded.png"><br>
 <br>
 Example new Average Problem with client not supporting rounded boxes<br>
-<img src="https://github.com/maand75/zabbix-htmlmailtemplates/blob/main/Problem.png"><br>
+<img src="https://github.com/maand75/zabbix-htmlmailtemplates/blob/main/Images/Problem.png"><br>
 Example Recovered Average Problem with client not supporting rounded boxes<br>
-<img src="https://github.com/maand75/zabbix-htmlmailtemplates/blob/main/Problem_Recovery.png"><br>
+<img src="https://github.com/maand75/zabbix-htmlmailtemplates/blob/main/Images/Problem_Recovery.png"><br>
